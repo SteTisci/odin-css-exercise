@@ -1,3 +1,3 @@
 # Descrizione
 
-Creazione di una pagina seguendo il tutoria di Odin project riguardante la flexbox.
+Creazione di una pagina seguendo il tutorial di Odin project riguardante la flexbox.
